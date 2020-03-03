@@ -1,8 +1,4 @@
-# kNN_Algorithm
+K-nearest neighbors (kNN) is a supervised machine learning algorithm that can be used to solve both classification and regression tasks.
 
-This repo includes the code used in the following Medium article:
 
-k-Nearest Neighbors - Explained
-
-https://medium.com/@soneryildirim1988/k-nearest-neighbors-knn-explained-cbc31849a7e3
 
